@@ -1,2 +1,2 @@
-# GravitySimulator
-A gravity simulator derp page!
+# DerpSimulator
+A derpy simulator web derp!
